@@ -1,2 +1,3 @@
 hi, hello..
 odin project
+trying commit with vscode as core editor
